@@ -18,6 +18,7 @@ Type of problem that i am doing is DSA level in python language.
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0907-koko-eating-bananas) |
 | [1294-range-frequency-queries](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1294-range-frequency-queries) |
@@ -45,6 +46,7 @@ Type of problem that i am doing is DSA level in python language.
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
