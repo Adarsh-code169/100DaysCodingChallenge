@@ -11,6 +11,7 @@ Type of problem that i am doing is DSA level in python language.
 | [0074-search-a-2d-matrix](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0075-sort-colors) |
 | [0724-find-pivot-index](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0724-find-pivot-index) |
+| [0907-koko-eating-bananas](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0907-koko-eating-bananas) |
 | [1294-range-frequency-queries](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1294-range-frequency-queries) |
 | [2591-frog-jump-ii](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/2591-frog-jump-ii) |
 ## Binary Search
@@ -18,6 +19,7 @@ Type of problem that i am doing is DSA level in python language.
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0074-search-a-2d-matrix) |
+| [0907-koko-eating-bananas](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0907-koko-eating-bananas) |
 | [1294-range-frequency-queries](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1294-range-frequency-queries) |
 | [2591-frog-jump-ii](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/2591-frog-jump-ii) |
 ## Matrix
