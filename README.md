@@ -16,6 +16,7 @@ Type of problem that i am doing is DSA level in python language.
 | [0907-koko-eating-bananas](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1294-range-frequency-queries](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1294-range-frequency-queries) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2591-frog-jump-ii](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/2591-frog-jump-ii) |
 ## Binary Search
 |  |
@@ -58,6 +59,7 @@ Type of problem that i am doing is DSA level in python language.
 | ------- |
 | [0070-climbing-stairs](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1013-fibonacci-number) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Recursion
 |  |
 | ------- |
