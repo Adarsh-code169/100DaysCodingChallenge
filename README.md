@@ -54,11 +54,13 @@ Type of problem that i am doing is DSA level in python language.
 | [0069-sqrtx](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1236-n-th-tribonacci-number) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Recursion
 |  |
@@ -69,6 +71,7 @@ Type of problem that i am doing is DSA level in python language.
 | ------- |
 | [0070-climbing-stairs](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1236-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
