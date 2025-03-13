@@ -13,6 +13,7 @@ Type of problem that i am doing is DSA level in python language.
 | [0075-sort-colors](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0164-maximum-gap) |
 | [0724-find-pivot-index](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0724-find-pivot-index) |
+| [0747-min-cost-climbing-stairs](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1294-range-frequency-queries](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1294-range-frequency-queries) |
@@ -59,6 +60,7 @@ Type of problem that i am doing is DSA level in python language.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0070-climbing-stairs) |
+| [0747-min-cost-climbing-stairs](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1236-n-th-tribonacci-number) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
