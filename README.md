@@ -60,6 +60,7 @@ Type of problem that i am doing is DSA level in python language.
 | [1013-fibonacci-number](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1236-n-th-tribonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/2050-count-good-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Type of problem that i am doing is DSA level in python language.
 | ------- |
 | [1013-fibonacci-number](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
