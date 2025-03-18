@@ -12,6 +12,7 @@ Type of problem that i am doing is DSA level in python language.
 | [0045-jump-game-ii](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0045-jump-game-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0078-subsets) |
 | [0164-maximum-gap](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0198-house-robber) |
 | [0724-find-pivot-index](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0724-find-pivot-index) |
@@ -115,4 +116,12 @@ Type of problem that i am doing is DSA level in python language.
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
