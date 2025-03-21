@@ -24,6 +24,7 @@ Type of problem that i am doing is DSA level in python language.
 | [1294-range-frequency-queries](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1294-range-frequency-queries) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2591-frog-jump-ii](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/2591-frog-jump-ii) |
 ## Binary Search
 |  |
@@ -36,6 +37,7 @@ Type of problem that i am doing is DSA level in python language.
 | [0907-koko-eating-bananas](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1294-range-frequency-queries](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1294-range-frequency-queries) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2591-frog-jump-ii](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/2591-frog-jump-ii) |
 ## Matrix
 |  |
@@ -93,6 +95,7 @@ Type of problem that i am doing is DSA level in python language.
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0045-jump-game-ii) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2591-frog-jump-ii](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/2591-frog-jump-ii) |
 ## Two Pointers
 |  |
