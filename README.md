@@ -69,6 +69,7 @@ Type of problem that i am doing is DSA level in python language.
 | ------- |
 | [0069-sqrtx](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0279-perfect-squares) |
 | [1013-fibonacci-number](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1236-n-th-tribonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -80,6 +81,7 @@ Type of problem that i am doing is DSA level in python language.
 | [0070-climbing-stairs](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0416-partition-equal-subset-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1013-fibonacci-number) |
@@ -138,4 +140,8 @@ Type of problem that i am doing is DSA level in python language.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0078-subsets) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
