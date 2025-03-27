@@ -25,6 +25,7 @@ Type of problem that i am doing is DSA level in python language.
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1294-range-frequency-queries](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1294-range-frequency-queries) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/2000-minimum-speed-to-arrive-on-time) |
@@ -86,6 +87,7 @@ Type of problem that i am doing is DSA level in python language.
 | [0747-min-cost-climbing-stairs](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1236-n-th-tribonacci-number) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Recursion
 |  |
@@ -104,6 +106,7 @@ Type of problem that i am doing is DSA level in python language.
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0045-jump-game-ii) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1388-greatest-sum-divisible-by-three) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2591-frog-jump-ii](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/2591-frog-jump-ii) |
 ## Two Pointers
@@ -116,6 +119,7 @@ Type of problem that i am doing is DSA level in python language.
 | ------- |
 | [0075-sort-colors](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0164-maximum-gap) |
+| [1388-greatest-sum-divisible-by-three](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1388-greatest-sum-divisible-by-three) |
 ## Bucket Sort
 |  |
 | ------- |
