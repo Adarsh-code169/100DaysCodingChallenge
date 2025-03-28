@@ -1,6 +1,6 @@
 Hyy everyone.
 I am doing 100 days of coding question.I am doing 2 question on daily basis but i will increse the frequency of the question.
-Type of problem that i am doing is DSA level in python language.
+Type of problem that i am doing is DSA level in python language.I am also working on leetcode problem.Trying to make streak and solve 1 or 2 problem to make my problem solving skill better.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
