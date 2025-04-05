@@ -11,6 +11,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | [0011-container-with-most-water](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0075-sort-colors) |
@@ -87,6 +88,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0198-house-robber) |
@@ -117,6 +119,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0435-non-overlapping-intervals) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1388-greatest-sum-divisible-by-three) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
