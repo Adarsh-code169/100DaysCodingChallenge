@@ -105,6 +105,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [1013-fibonacci-number](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/2050-count-good-numbers) |
@@ -166,4 +167,8 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0279-perfect-squares) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
