@@ -33,6 +33,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1294-range-frequency-queries](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1294-range-frequency-queries) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1791-richest-customer-wealth](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1791-richest-customer-wealth) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/2000-minimum-speed-to-arrive-on-time) |
@@ -56,6 +57,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0074-search-a-2d-matrix) |
+| [1791-richest-customer-wealth](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
