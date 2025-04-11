@@ -178,4 +178,12 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0141-linked-list-cycle) |
+## String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1078-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
