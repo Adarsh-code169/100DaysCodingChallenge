@@ -24,6 +24,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | [0416-partition-equal-subset-sum](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0494-target-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0747-min-cost-climbing-stairs) |
@@ -63,6 +64,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | ------- |
 | [0001-two-sum](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0141-linked-list-cycle) |
+| [0560-subarray-sum-equals-k](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [1294-range-frequency-queries](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1294-range-frequency-queries) |
 ## Design
 |  |
@@ -75,6 +77,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0724-find-pivot-index) |
 ## Math
 |  |
