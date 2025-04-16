@@ -112,6 +112,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/2050-count-good-numbers) |
@@ -138,6 +139,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -181,6 +183,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -188,5 +191,6 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
