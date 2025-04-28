@@ -176,6 +176,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0279-perfect-squares) |
 ## Linked List
 |  |
@@ -193,4 +194,16 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1078-remove-outermost-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0199-binary-tree-right-side-view) |
+## Depth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0199-binary-tree-right-side-view) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
