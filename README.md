@@ -179,6 +179,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0279-perfect-squares) |
+| [0617-merge-two-binary-trees](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0617-merge-two-binary-trees) |
 ## Linked List
 |  |
 | ------- |
@@ -200,13 +201,16 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0199-binary-tree-right-side-view) |
+| [0617-merge-two-binary-trees](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0199-binary-tree-right-side-view) |
+| [0617-merge-two-binary-trees](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0199-binary-tree-right-side-view) |
+| [0617-merge-two-binary-trees](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
