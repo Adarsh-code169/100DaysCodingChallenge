@@ -82,6 +82,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0279-perfect-squares) |
@@ -111,6 +112,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1013-fibonacci-number) |
@@ -183,6 +185,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0141-linked-list-cycle) |
