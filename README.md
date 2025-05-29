@@ -17,6 +17,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | [0074-search-a-2d-matrix](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0078-subsets) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0162-find-peak-element](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0162-find-peak-element) |
@@ -144,6 +145,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0234-palindrome-linked-list) |
 ## Sorting
