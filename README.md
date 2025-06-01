@@ -8,6 +8,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -47,6 +48,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0074-search-a-2d-matrix) |
@@ -228,4 +230,8 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | [0199-binary-tree-right-side-view](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0617-merge-two-binary-trees](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0617-merge-two-binary-trees) |
 | [0904-leaf-similar-trees](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0904-leaf-similar-trees) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
