@@ -205,6 +205,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0014-longest-common-prefix) |
 | [1078-remove-outermost-parentheses](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
@@ -235,4 +236,8 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0004-median-of-two-sorted-arrays) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
