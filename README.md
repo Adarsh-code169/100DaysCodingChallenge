@@ -102,6 +102,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0070-climbing-stairs) |
@@ -147,6 +148,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -205,6 +207,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0014-longest-common-prefix) |
 | [1078-remove-outermost-parentheses](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
