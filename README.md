@@ -211,11 +211,13 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0032-longest-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1078-remove-outermost-parentheses) |
