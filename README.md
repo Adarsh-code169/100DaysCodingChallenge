@@ -156,6 +156,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | [0011-container-with-most-water](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0141-linked-list-cycle) |
@@ -208,6 +209,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0234-palindrome-linked-list) |
 ## String
