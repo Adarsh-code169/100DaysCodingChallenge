@@ -224,6 +224,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | [0020-valid-parentheses](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0032-longest-valid-parentheses) |
+| [0065-valid-number](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0065-valid-number) |
 | [1078-remove-outermost-parentheses](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
