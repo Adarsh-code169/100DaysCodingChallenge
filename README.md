@@ -95,6 +95,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | [0002-add-two-numbers](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0279-perfect-squares) |
@@ -112,6 +113,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | [0045-jump-game-ii](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -271,4 +273,8 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0023-merge-k-sorted-lists) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
