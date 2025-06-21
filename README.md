@@ -15,6 +15,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | [0033-search-in-rotated-sorted-array](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0057-insert-interval) |
@@ -196,6 +197,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0494-target-sum) |
 ## Bit Manipulation
