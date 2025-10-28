@@ -26,6 +26,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | [0118-pascals-triangle](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0198-house-robber) |
@@ -74,6 +75,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0141-linked-list-cycle) |
 | [0560-subarray-sum-equals-k](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [1294-range-frequency-queries](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1294-range-frequency-queries) |
@@ -282,4 +284,8 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0062-unique-paths) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
