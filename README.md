@@ -202,6 +202,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | [0022-generate-parentheses](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0494-target-sum) |
 ## Bit Manipulation
