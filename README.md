@@ -32,6 +32,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | [0128-longest-consecutive-sequence](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0416-partition-equal-subset-sum) |
@@ -62,6 +63,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | [0069-sqrtx](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -177,6 +179,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | [0075-sort-colors](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
