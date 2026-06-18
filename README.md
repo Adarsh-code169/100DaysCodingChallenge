@@ -178,6 +178,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | [0061-rotate-list](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0234-palindrome-linked-list) |
@@ -248,6 +249,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | [0032-longest-valid-parentheses](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0038-count-and-say) |
 | [0065-valid-number](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0065-valid-number) |
+| [0125-valid-palindrome](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0125-valid-palindrome) |
 | [1078-remove-outermost-parentheses](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
