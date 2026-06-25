@@ -175,6 +175,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -246,6 +247,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | [0014-longest-common-prefix](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0038-count-and-say) |
 | [0065-valid-number](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0065-valid-number) |
@@ -308,4 +310,8 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
