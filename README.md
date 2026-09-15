@@ -109,6 +109,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | [0069-sqrtx](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0279-perfect-squares) |
+| [0509-fibonacci-number](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1236-n-th-tribonacci-number) |
@@ -135,6 +136,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | [0416-partition-equal-subset-sum](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0494-target-sum) |
+| [0509-fibonacci-number](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0509-fibonacci-number) |
 | [0747-min-cost-climbing-stairs](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1236-n-th-tribonacci-number) |
@@ -147,6 +149,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | [0021-merge-two-sorted-lists](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/2050-count-good-numbers) |
@@ -154,6 +157,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1236-n-th-tribonacci-number) |
 ## Greedy
