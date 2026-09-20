@@ -9,10 +9,9 @@ class Solution:
             if not s[R].isalnum():
                 R-=1
                 continue
-            if s[L].lower() == s[R].lower():
-                L += 1
-                R -= 1
+            if s[L].lower()==s[R].lower():
+                L+=1
+                R-=1
             else:
                 return False
         return True
-        
