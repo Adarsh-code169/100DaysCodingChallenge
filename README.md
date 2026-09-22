@@ -41,6 +41,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | [0494-target-sum](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0792-binary-search) |
@@ -317,6 +318,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0643-maximum-average-subarray-i) |
 ## String Matching
 |  |
 | ------- |
