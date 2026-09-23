@@ -36,6 +36,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | [0198-house-robber](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0494-target-sum) |
@@ -87,6 +88,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | [0128-longest-consecutive-sequence](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [1294-range-frequency-queries](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1294-range-frequency-queries) |
 ## Design
@@ -318,6 +320,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0643-maximum-average-subarray-i) |
 ## String Matching
 |  |
