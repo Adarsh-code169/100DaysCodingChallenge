@@ -38,6 +38,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | [0213-house-robber-ii](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0219-contains-duplicate-ii) |
+| [0303-range-sum-query-immutable](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0303-range-sum-query-immutable) |
 | [0416-partition-equal-subset-sum](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0494-target-sum) |
@@ -96,6 +97,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0303-range-sum-query-immutable) |
 | [1294-range-frequency-queries](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/1294-range-frequency-queries) |
 ## Segment Tree
 |  |
@@ -105,6 +107,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0724-find-pivot-index) |
 ## Math
