@@ -15,6 +15,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | [0027-remove-element](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0051-n-queens) |
@@ -66,6 +67,7 @@ Type of problem that i am doing is DSA level in python language.I am also workin
 | [0004-median-of-two-sorted-arrays](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Adarsh-code169/100DaysCodingChallenge/tree/master/0162-find-peak-element) |
